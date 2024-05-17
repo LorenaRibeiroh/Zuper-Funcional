@@ -2,7 +2,27 @@
 
 * {
     font-family: 'Sora',sans-serif;
+    scroll-behavior: smooth;
 }
-body {
-    margin: 0 auto; 
+.margin {
+    max-width: 1200px; /* Define a largura máxima */
+    margin-right: auto; /* Centraliza o conteiner na tela */
+    margin-left: auto;
+}
+
+/*Dimensões*/
+@media (max-width: 991.98px) {
+    #navBar-contato {
+    margin-left: 300px;
+}
+}
+@media (max-width: 521.98px) {
+    #navBar-contato {
+    margin-left: 200px;
+}
+}
+@media (max-width: 421.98px) {
+    #navBar-contato {
+    margin-left: 100px;
+}
 }
