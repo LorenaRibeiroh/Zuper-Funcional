@@ -5,4 +5,18 @@
 @import url("style.css");
 @import url(navbar.css);
 
-@import url("footer.css");
+@import url("footer.css");  
+
+.titulo1{
+    margin-top: 50px;
+    border-left: solid #5ACB89 3px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.titulo1{
+    padding-left: 10px;
+
+}
