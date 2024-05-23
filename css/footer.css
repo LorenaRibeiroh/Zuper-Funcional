@@ -1,17 +1,27 @@
-.RodaPe {
+footer {
     background-color: #2f2f2f;
     color: #eeeeee;
 }
-.footer_icones img {
-    width: 32px;
+.footer {
+    padding: 24px;
+    display: flex;
+ }
+
+
+
+
+
+
+
+
+.logo_footer img {
+    width: 110px;
 }
-.img_footer_contato {
+
+.icon_footer img {
     width: 32px;
 }
 #footer_direitos {
-    background: #fff;
-    color: #2f2f2f;
-}
-#RodaPe-logo img {
-    width: 100px;
+    text-align: center;
+    margin-top: 12px;
 }
