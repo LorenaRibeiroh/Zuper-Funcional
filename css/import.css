@@ -20,3 +20,14 @@
     padding-left: 10px;
 
 }
+
+.card1{
+    background-color: #2F2F2F;
+    padding-bottom: 80px;
+    margin-bottom: 50px;
+}
+
+.card1{
+    border-bottom: solid #5ACB89 5px;
+    border-radius: 5px;
+}
