@@ -1,0 +1,6 @@
+/* Media query para telas com largura inferior a 992px */
+@media (max-width: 992px) {
+    .carousel-item img {
+        width: 110%;                     /* Aumenta a largura para permitir um corte significativo */
+    }
+}

@@ -1,0 +1,19 @@
+.categorias{
+    margin: 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+.card{
+    width: 18rem;
+}
+.card a{
+    font-weight: 600;
+    background-color: #5ACB89;
+    color: #2F2F2F;
+}
+.card a:hover{
+    color:#5ACB89;
+    background-color: black;
+    transition: all 0.3s;
+}
