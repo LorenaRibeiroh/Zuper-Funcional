@@ -4,12 +4,21 @@
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
     border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
+    border-bottom-right-radius: 10px; 
+    padding-left: 10px;  
+    margin-bottom: 50px;
 }
 
-.titulo1{
-    padding-left: 10px;
-
+.titulocard{
+    margin-top: 50px;
+    border-left: solid #5ACB89 3px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px; 
+    padding-left: 10px;  
+    margin-bottom: 50px;
+    margin-left: 15px;
 }
 
 .card1{
@@ -20,28 +29,29 @@
     border-bottom: solid #5ACB89 5px;
     border-radius: 5px;
     max-width: 80px;
-
+    margin-left: 30px;
 }
 
 .card2{
+
     color: white;
     background-color: #2F2F2F;
-    padding-bottom: 60px;
     margin-bottom: 50px;
     border-bottom: solid #5ACB89 5px;
     border-radius: 5px;
     max-width: 80px;
+    margin-left: 30px;
 
 }
 
 .card3{
     color: white;
     background-color: #2F2F2F;
-    padding-bottom: 60px;
     margin-bottom: 50px;
     border-bottom: solid #5ACB89 5px;
     border-radius: 5px;
     max-width: 80px;
+    margin-left: 30px;
 }
 
 .cards{
@@ -49,3 +59,26 @@
     flex-direction: row;
     
 }
+
+.card1 img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.card2 img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.card3 img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.conteudocard{
+    padding-top: 4px;
+}
+
