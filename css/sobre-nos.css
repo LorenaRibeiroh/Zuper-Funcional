@@ -13,12 +13,39 @@
 }
 
 .card1{
+    color: white;
     background-color: #2F2F2F;
-    padding-bottom: 80px;
+    padding-bottom: 60px;
     margin-bottom: 50px;
-}
-
-.card1{
     border-bottom: solid #5ACB89 5px;
     border-radius: 5px;
+    max-width: 80px;
+
+}
+
+.card2{
+    color: white;
+    background-color: #2F2F2F;
+    padding-bottom: 60px;
+    margin-bottom: 50px;
+    border-bottom: solid #5ACB89 5px;
+    border-radius: 5px;
+    max-width: 80px;
+
+}
+
+.card3{
+    color: white;
+    background-color: #2F2F2F;
+    padding-bottom: 60px;
+    margin-bottom: 50px;
+    border-bottom: solid #5ACB89 5px;
+    border-radius: 5px;
+    max-width: 80px;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    
 }
