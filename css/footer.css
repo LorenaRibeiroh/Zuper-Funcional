@@ -1,0 +1,11 @@
+#footer_bg_black {
+    padding: 24px;
+    background-color: #2f2f2f;
+}
+#footer_logo img {
+    width: 110px;
+}
+
+#footer_direitos {
+    text-align: center;
+}
