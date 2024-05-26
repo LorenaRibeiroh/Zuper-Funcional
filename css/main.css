@@ -1,0 +1,81 @@
+/*Quem Somos*/
+#quemSomos {
+    margin: 48px 0 48px 0;
+}
+#quemSomos_text {
+    color: #2f2f2f;
+}
+#quemSomos_text h2{
+    font-size: 36px;
+    font-weight: 700;
+}
+#quemSomos_text a {
+    font-weight: 600; 
+    text-decoration: none;
+    background-color: #56CB87;
+    color: #2f2f2f;
+}
+#quemSomos_text a:hover {
+    color: #5ACB89;
+    background-color: #2f2f2f;
+    transition: all 0.4s;
+}
+
+/*Galeria de imagens*/
+#galeria_text {
+    margin: 48px 0 48px 0;
+    color: #2f2f2f;
+    text-align: center;
+}
+#galeria_text h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+#galeria_text p {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+#galeria_cta {
+    margin: 48px 0 48px 0;
+    color: #2f2f2f;
+    text-align: center;
+}
+#galeria_cta h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+#galeria_cta a {
+    color: #5ACB89;
+    background-color: #2f2f2f;
+    font-size: 20px;
+    font-weight: 500;
+}
+#galeria_cta a:hover {
+    color: #2f2f2f;
+    background-color: #5ACB89;
+    transition: all 0.4s;
+}
+
+/*FAQ*/
+#faq {
+    margin: 48px 0 48px 0;
+}
+#faq #title_faq{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 24px;
+    color: #2f2f2f;
+}
+#faq .accordion .accordion-button {
+    background-color: #2f2f2f;
+}
+#faq .accordion .accordion-button p {
+    color: #5ACB89;
+}
+.accordion-body {
+    color: #eeeeee;
+    background-color: #2f2f2f;
+}
