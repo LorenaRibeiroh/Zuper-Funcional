@@ -7,10 +7,10 @@
 #navBar-itens a {
     color: #eeeeee;
 }
-#nav-link {
+.nav-link {
     font-weight: 600;
 }
-#nav-link:hover {
+.nav-link:hover {
     color: #5ACB89;
     transition: all 0.3s;
 }
