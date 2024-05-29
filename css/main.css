@@ -71,6 +71,16 @@
 #producao #producao_imagem{
     padding: 32px;
 }
+#producao #producao_imagem a {
+    background-color: #eeeeee;
+    color: #2f2f2f;
+    font-weight: 600;
+}
+#producao #producao_imagem a:hover {
+    background-color: #2f2f2f;
+    color: #5ACB89;
+    transition: all 0.4s;
+}
 #producao #producao_text {
     padding: 32px;
 }
