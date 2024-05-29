@@ -8,6 +8,34 @@
     padding-left: 10px;  
     margin-bottom: 50px;
 }
+.tituloprodução{
+    margin-top: 50px;
+    border-left: solid #5ACB89 3px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px; 
+    padding-left: 10px; 
+}
+
+.conteudodescrição{
+    font-size: 18px;
+}
+#producao-link{
+    display: flex;
+    flex-direction: row;
+}
+.cardprodução1{
+    background-color: #2F2F2F;
+    color: white;
+    max-width: 80px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-bottom: 80px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+}
 
 .titulocard{
     margin-top: 50px;
