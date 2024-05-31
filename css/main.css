@@ -127,9 +127,17 @@
     text-align: center;
 }
 .bg-verde {
-    background-color: #5ACB89;
-    color: #2f2f2f;
+    color: #5ACB89;
     font-weight: 600;
     border-radius: 8px;
-    width: 340px;
+    padding: 8px;
+}
+.verde {
+    background-color: #5ACB89;
+    color: #2f2f2f;
+    width: 200px;
+    margin: auto;
+    font-weight: 600;
+    margin-bottom: 4px;
+    border-radius: 5px;
 }
