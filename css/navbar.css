@@ -1,26 +1,22 @@
-#navBar {
+#navbar {
     background-color: #2f2f2f;
 }
-#navBar-logo img {
-    width: 80px;
-}
-#navBar-itens a {
+#menuNavbar a{
     color: #eeeeee;
 }
-.nav-link {
-    font-weight: 600;
-}
-.nav-link:hover {
+#menuNavbar a:hover {
+    font-weight: 500;
     color: #5ACB89;
-    transition: all 0.3s;
+    transform: scale(1.06);
+    transition: all 0.3s ease;
 }
-#navBar-contato a {
-    font-weight: 600;
-    color: #2f2f2f;
-    background: #5ACB89;
+#logo_template {
+    width: 80px;
 }
-#navBar-contato a:hover {
-    color: #5ACB89;
-    background-color: #eeeeee;
-    transition: all 0.3s;
+#logo_template:hover {
+    transform: scale(1.06);
+    transition: all 0.3s ease;
+}
+.icon {
+    border: none;
 }
