@@ -15,7 +15,7 @@
     border-bottom-left-radius: 3px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px; 
-    padding-left: 10px; 
+    padding-right: 20px; 
 }
 
 .conteudodescrição{
@@ -31,6 +31,17 @@
     max-width: 80px;
     border-radius: 5px;
     margin-left: 30px;
+    margin-bottom: 80px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+}
+.cardprodução2{
+    margin-left: 200px;
+    background-color: #2F2F2F;
+    color: white;
+    max-width: 80px;
+    border-radius: 5px;
     margin-bottom: 80px;
     padding-top: 50px;
     padding-bottom: 30px;
