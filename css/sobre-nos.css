@@ -19,13 +19,12 @@
 }
 .circulo1{
     position: absolute;
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-    background:#2F2F2F;
-    box-shadow: #5ACB89;
-    margin-left: 50px;
+    position: static;
     
+}
+.circulo1 img{
+    width: 100px;
+
 }
 
 .conteudohistoria{
@@ -64,6 +63,7 @@
 }
 
 .cardprodução1{
+    position: relative;
     background-color: #2F2F2F;
     color: white;
     max-width: 80px;
@@ -71,9 +71,11 @@
     margin-left: 30px;
     margin-bottom: 80px;
     padding-top: 50px;
-    padding-bottom: 30px;   
+    padding-bottom: 30px;
+    border: ;   
 }
 .cardprodução2{
+    position: relative;
     margin-left: 200px;
     background-color: #2F2F2F;
     color: white;
