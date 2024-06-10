@@ -69,27 +69,30 @@
     color: #eeeeee;
     padding: 6px;
 }
-#producao #producao_imagem{
-    padding: 32px;
-}
-#producao #producao_imagem a {
+#producao #producao_text a {
     background-color: #eeeeee;
     color: #2f2f2f;
     font-weight: 600;
 }
-#producao #producao_imagem a:hover {
+#producao #producao_text a:hover {
     background-color: #2f2f2f;
     color: #5ACB89;
     transition: all 0.4s;
 }
 #producao #producao_text {
-    padding: 32px;
+    padding: 12px;    
 }
 #producao #producao_text h2 {
     font-size: 36px;
     font-weight: 700;
 }
-
+#producao_imagem img {
+    width: 440px;
+}
+.processo {
+    display: flex;
+    align-items: center;
+}
 /*FAQ*/
 #faq {
     margin: 48px 0 48px 0;
