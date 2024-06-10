@@ -44,7 +44,7 @@
 .titulocardproducao1 {
    float: left;
    font-size: 20px;
-   padding-top: 20px;
+   padding-top: 25px;
     
 }
 .titulocardproducao2{
@@ -70,9 +70,17 @@
     border-radius: 5px;
     margin-left: 30px;
     margin-bottom: 80px;
-    padding-top: 50px;
-    padding-bottom: 30px; 
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: solid #2F2F2F 10px;
+    transition: border-color 0.3s;
 }
+
+.cardprodução1:hover{
+    border-color: #5ACB89;
+}
+
+
 .cardprodução2{
     position: relative;
     margin-left: 200px;
@@ -81,10 +89,16 @@
     max-width: 80px;
     border-radius: 5px;
     margin-bottom: 80px;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 30px;
-
+    border: solid #2F2F2F 10px;
+    transition: border-color 0.3s;
 }
+
+.cardprodução2:hover{
+    border-color: #5ACB89;
+}
+
 
 .titulocard{
     margin-top: 50px;
